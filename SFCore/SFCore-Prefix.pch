@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SFCore' target in the 'SFCore' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
